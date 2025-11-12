@@ -50,7 +50,10 @@ Artifacts and Docker builds will appear automatically.
 - [MLOps with GitHub Actions](https://mlops.community/github-actions-for-mlops/)
 - [Continuous Delivery for Machine Learning (CD4ML)](https://martinfowler.com/articles/cd4ml.html)
 
-- ## Activity Completed By
-   - Student Name: Andleeb Zahra
-   - Date: November 12, 2025
-   - GitHub Actions: Enabled 
+
+  ## CI/CD Pipeline Status
+   - Workflow: Active
+   - Last Updated: November 12, 2025
+   - Author: Andleeb Zahra
+
+
